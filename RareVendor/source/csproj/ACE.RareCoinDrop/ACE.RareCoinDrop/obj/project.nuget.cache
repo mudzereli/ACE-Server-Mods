@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hzLRLK3tDG0=",
+  "success": true,
+  "projectFilePath": "D:\\Github\\ACE-Server-Mods\\RareVendor\\source\\csproj\\ACE.RareCoinDrop\\ACE.RareCoinDrop\\ACE.RareCoinDrop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mudz\\.nuget\\packages\\acemulator.ace.shared\\1.0.0\\acemulator.ace.shared.1.0.0.nupkg.sha512",
+    "C:\\Users\\mudz\\.nuget\\packages\\lib.harmony\\2.3.3\\lib.harmony.2.3.3.nupkg.sha512",
+    "C:\\Users\\mudz\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\mudz\\.nuget\\packages\\system.text.json\\8.0.1\\system.text.json.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

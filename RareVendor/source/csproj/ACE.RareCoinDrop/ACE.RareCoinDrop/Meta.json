@@ -1,0 +1,10 @@
+{
+  "Name": "ACE.RareCoinDrop",
+  "Author": "mudzereli/Porkchop",
+  "Description": "This replaces Rare Drops with Rare Coins (item 136518). You must also execute the SQL entries for this to work properly.",
+  "Version": "1.0",
+  "Enabled": true,
+  "HotReload": true,
+  "RegisterCommands": true,
+  "ACEVersion": "0.0"
+}
